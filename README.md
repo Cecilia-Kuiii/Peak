@@ -1,4 +1,4 @@
-Maybe I need to seek happiness in the dull and meaningless days like thorns
+Maybe I need to seek happiness in the dull and meaningless days like thorns\n
 Just for noting my lonely and painful divine ascent..
 I watch and gaze at mine, only I understand myself
 
