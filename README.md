@@ -4,4 +4,4 @@
 
 -I watch and gaze at mine, only I understand myself
 
-丢掉幻想 勇于斗争💕
+_丢掉幻想 勇于斗争💕_
