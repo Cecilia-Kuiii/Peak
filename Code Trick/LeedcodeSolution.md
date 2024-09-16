@@ -35,7 +35,7 @@ question:
     
     c块绿砖，同时给出了 x， y。请问出最多能得到砖的“套数”是多少。
 
-py Solution:
+py Solution:(二分查答案)
 
     a,b,c = map(int, input().split())
     x,y = map(int, input().split())
