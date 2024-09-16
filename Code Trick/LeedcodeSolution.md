@@ -19,7 +19,26 @@ py Solution：
             preMax = max(preMax, y)
             preMin = min(preMin, x)
         return ans
-    
+
+cpp.Solution:
+
+        class Solution { 
+                public:
+           int maxDistance(vector<vector<int>>& arrays) 
+       {
+    int dist=0;
+    int max=arrays[0].back();
+    int min=arrays[0].front();
+    for(int i=1;i<arrays.size();i++)
+    {
+        dist=std::max(dist,std::max(arrays[i].back()-min,max-arrays[i].front()));
+        max=std::max(arrays[i].back(),max);
+        min=std::min(arrays[i].front(),min);
+    }
+    return dist;
+       }
+    };
+
 # 美团第六场笔试第二题
 
 question:
