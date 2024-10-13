@@ -1,3 +1,2 @@
-# STL
 
-1
+(https://oi-wiki.org/lang/basic/)
