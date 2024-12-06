@@ -3,3 +3,4 @@
 
 爬山的 “贪心” 策略使其很容易陷入局部最优（见上图），因为从局部上看，这些点对算法而言是全局最大值或平稳区域（plateaus）。平稳区域（Plateaus）可以分为没有方向使得目标值增长的（“flat local maxima”），或增长缓慢的（“shoulders”）平坦区域。
 
+<img src="pic/pseudo code/pseudocode_hill_climbing.png">
